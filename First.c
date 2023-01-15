@@ -4,6 +4,15 @@
 
 int main(void)
 {
-	printf("First Push Repositpry..\n");
+	printf("Test Message 01......\n");
+	printf("Test Message 01......\n");
+	printf("Test Message 01......\n");
+	printf("Test Message 01......\n");
+	printf("Test Message 01......\n");
+
+
+
+	printf("Test Message 01......\n");
+	printf("Test Message 01......\n");
 	return 0;
 }
